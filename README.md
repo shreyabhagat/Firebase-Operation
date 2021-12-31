@@ -1,7 +1,16 @@
-# Firebase-Operation
-Simple insert delete and update mobile application
+# shreya_demo
 
-![Screenshot_20211220_182548](https://user-images.githubusercontent.com/62168123/146773616-16944bd5-ad4b-494a-846d-32e6759cc539.png)
-![Screenshot_20211220_182554](https://user-images.githubusercontent.com/62168123/146775823-01412724-5c5f-4fd9-9874-030a0a4cba43.png)
+A new Flutter project.
 
-![Screenshot_20211220_182600](https://user-images.githubusercontent.com/62168123/146776239-7face363-80e5-4f0e-abb7-da62692b25b3.png)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
